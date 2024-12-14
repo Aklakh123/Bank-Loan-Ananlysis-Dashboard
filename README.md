@@ -40,6 +40,9 @@ I Designed an interactive Power BI dashboard to analyze key KPIs such as total a
 •	SELECT 
 •	TERM
 •	SELECT 
+•	EMPLOYEE LENGTH
+•	PURPOSE
+•	HOME OWNERSHIP
 
 ## Process
 1.	Problem Understanding: Analyzed the bank loan data to identify key metrics like loan applications, funded amounts, DTI, and approval rates.
@@ -48,10 +51,6 @@ I Designed an interactive Power BI dashboard to analyze key KPIs such as total a
 4.	Building Visualizations: Created interactive charts to display loan metrics, including funded vs. unfunded loans, loan amounts, and approval rates.
 5.	Advanced Analytics: Used DAX for calculated measures like loan approval rates and average funded amounts.
 6.	Dashboard Design: Focused on UX design, ensuring the dashboard was visually appealing and easy to navigate with dynamic filters.
-
-•	EMPLOYEE LENGTH
-•	PURPOSE
-•	HOME OWNERSHIP
 
 ## Dashboard Intraction
 <a href="https://github.com/Aklakh123/Bank-Loan-Ananlysis-Dashboard/blob/main/project_report.pdf">View Dashboard</a>
