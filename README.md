@@ -5,6 +5,8 @@ I Designed an interactive Power BI dashboard to analyze key KPIs such as total a
 
 ## Dataset Used
 <a href="https://github.com/Aklakh123/Bank-Loan-Ananlysis-Dashboard/blob/main/financial_loan%20(1).csv">Dataset</a>
+
+
 ## Questions
 Total Loan Applications 
 MTD Loan Applications 
