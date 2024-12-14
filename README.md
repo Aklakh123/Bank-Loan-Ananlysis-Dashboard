@@ -8,7 +8,9 @@ I Designed an interactive Power BI dashboard to analyze key KPIs such as total a
 
 ## Question
 •	Total Loan Applications 
+
 •	MTD Loan Applications 
+
 •	PMTD Loan Applications
 •	Total Funded Amount 
 •	MTD Total Funded Amount
