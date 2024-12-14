@@ -1,6 +1,6 @@
 # Bank Loan Analysis(Interactive Dashboard Creating Using Power BI )
 
-## Project Objective
+# Project Objective
 I Designed an interactive Power BI dashboard to analyze key KPIs such as total applications, funded amounts, average interest rates, Debt-to-Income (DTI), and loan performance trends. Utilized Power Query and advanced DAX functions to derive actionable insights and create dynamic visualizations.
 
 ## Dataset Used
@@ -56,10 +56,10 @@ I Designed an interactive Power BI dashboard to analyze key KPIs such as total a
 # Dashboard Intraction
 <a href="https://github.com/Aklakh123/Bank-Loan-Ananlysis-Dashboard/blob/main/project_report.pdf">View Dashboard</a>
 
-## Project Insight 
-# Approval Rate Analysis: 
+# Project Insight 
+#### Approval Rate Analysis: 
 The dashboard allows users to explore the loan approval rates by region, loan amount, and other factors, providing insights into trends and patterns.
-# Loan Performance Metrics:
+#### Loan Performance Metrics:
 Key metrics such as funded amounts, total applications, and average interest rates are visualized to help assess the overall health of the loan portfolio.
 ## Dynamic Filters: 
 Users can filter data by various dimensions (e.g., loan status, region) to gain specific insights into loan performance across different segments.
