@@ -44,4 +44,6 @@ I Designed an interactive Power BI dashboard to analyze key KPIs such as total a
 •	PURPOSE
 •	HOME OWNERSHIP
 
+# Dashboard Intraction
+<a href="https://github.com/Aklakh123/Bank-Loan-Ananlysis-Dashboard/blob/main/project_report.pdf">View Dashboard</a>
 
