@@ -61,10 +61,10 @@ I Designed an interactive Power BI dashboard to analyze key KPIs such as total a
 The dashboard allows users to explore the loan approval rates by region, loan amount, and other factors, providing insights into trends and patterns.
 #### Loan Performance Metrics:
 Key metrics such as funded amounts, total applications, and average interest rates are visualized to help assess the overall health of the loan portfolio.
-## Dynamic Filters: 
+#### Dynamic Filters: 
 Users can filter data by various dimensions (e.g., loan status, region) to gain specific insights into loan performance across different segments.
 Trends Over Time: Visualizations show how loan approval rates and amounts have changed over time, identifying potential seasonality or other factors affecting performance.
-## Risk Assessment:
+#### Risk Assessment:
 The dashboard helps identify riskier loans by analyzing metrics like DTI (Debt-to-Income ratio), providing insights into loan quality.
-## Actionable Insights: 
+#### Actionable Insights: 
 The analysis supports data-driven decisions by offering visual insights into the bank's loan portfolio, highlighting areas for improvement or focus.
