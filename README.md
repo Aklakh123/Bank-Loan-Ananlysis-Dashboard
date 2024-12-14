@@ -59,26 +59,6 @@ I Designed an interactive Power BI dashboard to analyze key KPIs such as total a
 
 •	LOAN STATUS
 
-•	BANK LOAN REPORT | OVERVIEW
-
-•	MONTH
-
-•	SELECT
-
-•	STATE
-
-•	SELECT
-
-•	TERM
-
-•	SELECT
-
-•	EMPLOYEE LENGTH
-
-•	PURPOSE
-
-•	HOME OWNERSHIP
-
 ## Process
 1.	Problem Understanding: Analyzed the bank loan data to identify key metrics like loan applications, funded amounts, DTI, and approval rates.
 2.	Data Collection and Cleaning: Collected data, cleaned it using Power BI (handling missing values and correcting data types).
